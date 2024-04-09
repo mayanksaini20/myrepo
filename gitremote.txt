@@ -1,0 +1,9 @@
+steps
+1.create github account
+2.create empty repo
+3.local system
+	cmd: git config --global user.name "mayanksaini20"
+	     git config --global user.email "mayanksainisre79@gmail.com"
+4.git push -u origin master
+	4.1 username? -> mayanksaini20
+	4.2 password? -> generate token and token daalo ge
